@@ -12,3 +12,4 @@ Hashing is a process used in many data structures like hash tables, hashsets and
 
 In Python, hashing is heavily utilized in dictionaries and sets. 
 
+[Arrays and Hashing](Arrays_and_Hashing)
